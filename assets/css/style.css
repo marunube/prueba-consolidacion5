@@ -1,0 +1,13 @@
+.btn-group {
+    display: flex;
+    flex-direction:column ;
+    width: fit-content;
+}
+
+.character-btn {
+    width: 200px;
+    background-color: gray;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
